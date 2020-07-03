@@ -1,3 +1,8 @@
 body {
 font-family: 'Yellowtail', cursive;
 }
+
+.imagecoussin {
+	display: flex;
+	justify-content: center;
+}
